@@ -6,7 +6,7 @@ Arduino and pi monitored kegerator
 ## Arduino
 Arduino Wiring Diagram 
 
-![Wiring Diagram] (/images/wiring diagram.png)
+![Wiring Diagram] (https://github.com/williammasters/kegerator/tree/master/images/wiring diagram.png)
 
 Note: LCD optional, mainly used for debugging
 
